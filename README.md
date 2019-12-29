@@ -1,2 +1,3 @@
-# identino
-An Open Source Identity Access Management Solution
+# Identino
+
+An Open Source Identity Access Management Solution.
