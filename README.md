@@ -9,6 +9,10 @@ The identino is an application manage the Identity and Access Management various
 For more information please visit [readthedocs].
 
 ## System Requirements
+Minimum memory - 2GB
+Processor - Pentium 800MHz or equivalent at minimum
+Java 1.8 or higher
+Storage - 4GB
 
 ## Installing and Running
 
